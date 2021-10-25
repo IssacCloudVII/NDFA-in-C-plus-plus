@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1635123195 source:d:\teoria_computacional\practica_2\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<set>
+	<string>
+

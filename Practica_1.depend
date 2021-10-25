@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1630810723 source:d:\users\héctor\downloads\teoría_computacional\práctica_1\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<string>
+
+1631850151 source:d:\teoria_computacional\practica_1\main.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<vector>
+	<string>
+
